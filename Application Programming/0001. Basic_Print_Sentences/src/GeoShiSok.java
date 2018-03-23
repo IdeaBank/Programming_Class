@@ -1,7 +1,7 @@
 public class GeoShiSok {
     public static void main(String[] args)
     {
-        float velocity = (float)90.0 , time = (float)60.0;
+        float velocity = 90.0f , time = 60.0f;
         int distance = 0;
 
         distance = (int)(velocity*time);
