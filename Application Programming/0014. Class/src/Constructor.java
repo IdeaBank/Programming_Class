@@ -5,11 +5,13 @@ public class Constructor
         Student Kim = new Student("Kim Hyunwoo");
     }
 }
+
 class Student
 {
     Student(String name)
     {
         this.name = name;
     }
+
     private String name;
 }
