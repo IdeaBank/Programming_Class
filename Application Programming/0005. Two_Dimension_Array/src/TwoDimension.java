@@ -1,7 +1,3 @@
-import javafx.util.Pair;
-
-import java.util.ArrayList;
-
 public class TwoDimension {
     public static void main(String[] args) {
         System.out.println(CentimeterToInch((float) 172));
